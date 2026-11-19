@@ -1,0 +1,133 @@
+EXPLAINABLE AI CYBER THREAT PRIORITIZATION REPORT
+===================================================
+
+RANK #1
+THREAT ID: CVE-2026-0192 - Apache Struts RCE
+OVERALL RISK SCORE: 99.2 / 100 [CRITICAL]
+------------------------------------------------------------
+WHY THE AI ASSIGNED THIS PRIORITY (FEATURE ATTRIBUTION):
+ • CVSS Base Severity (9.8/10)            : +39.2 pts (39.5% impact)
+ • Asset Criticality (Level 5/5)          : +25.0 pts (25.2% impact)
+ • Active Exploit in Wild (Yes)           : +20.0 pts (20.2% impact)
+ • Network Exposure (External/Internet)   : +15.0 pts (15.1% impact)
+
+RECOMMENDED ACTION:
+ -> IMMEDIATE PATCHING REQUIRED within 24 hours. Isolate affected nodes if external-facing.
+
+RANK #2
+THREAT ID: CVE-2026-1042 - OpenSSL Buffer Overflow
+OVERALL RISK SCORE: 95.2 / 100 [CRITICAL]
+------------------------------------------------------------
+WHY THE AI ASSIGNED THIS PRIORITY (FEATURE ATTRIBUTION):
+ • CVSS Base Severity (8.8/10)            : +35.2 pts (37.0% impact)
+ • Asset Criticality (Level 5/5)          : +25.0 pts (26.3% impact)
+ • Active Exploit in Wild (Yes)           : +20.0 pts (21.0% impact)
+ • Network Exposure (External/Internet)   : +15.0 pts (15.8% impact)
+
+RECOMMENDED ACTION:
+ -> IMMEDIATE PATCHING REQUIRED within 24 hours. Isolate affected nodes if external-facing.
+
+RANK #3
+THREAT ID: CVE-2026-1042 - OpenSSL Buffer Overflow
+OVERALL RISK SCORE: 95.2 / 100 [CRITICAL]
+------------------------------------------------------------
+WHY THE AI ASSIGNED THIS PRIORITY (FEATURE ATTRIBUTION):
+ • CVSS Base Severity (8.8/10)            : +35.2 pts (37.0% impact)
+ • Asset Criticality (Level 5/5)          : +25.0 pts (26.3% impact)
+ • Active Exploit in Wild (Yes)           : +20.0 pts (21.0% impact)
+ • Network Exposure (External/Internet)   : +15.0 pts (15.8% impact)
+
+RECOMMENDED ACTION:
+ -> IMMEDIATE PATCHING REQUIRED within 24 hours. Isolate affected nodes if external-facing.
+
+RANK #4
+THREAT ID: CVE-2026-1042 - OpenSSL Buffer Overflow
+OVERALL RISK SCORE: 95.2 / 100 [CRITICAL]
+------------------------------------------------------------
+WHY THE AI ASSIGNED THIS PRIORITY (FEATURE ATTRIBUTION):
+ • CVSS Base Severity (8.8/10)            : +35.2 pts (37.0% impact)
+ • Asset Criticality (Level 5/5)          : +25.0 pts (26.3% impact)
+ • Active Exploit in Wild (Yes)           : +20.0 pts (21.0% impact)
+ • Network Exposure (External/Internet)   : +15.0 pts (15.8% impact)
+
+RECOMMENDED ACTION:
+ -> IMMEDIATE PATCHING REQUIRED within 24 hours. Isolate affected nodes if external-facing.
+
+RANK #5
+THREAT ID: CVE-2026-1042 - OpenSSL Buffer Overflow
+OVERALL RISK SCORE: 95.2 / 100 [CRITICAL]
+------------------------------------------------------------
+WHY THE AI ASSIGNED THIS PRIORITY (FEATURE ATTRIBUTION):
+ • CVSS Base Severity (8.8/10)            : +35.2 pts (37.0% impact)
+ • Asset Criticality (Level 5/5)          : +25.0 pts (26.3% impact)
+ • Active Exploit in Wild (Yes)           : +20.0 pts (21.0% impact)
+ • Network Exposure (External/Internet)   : +15.0 pts (15.8% impact)
+
+RECOMMENDED ACTION:
+ -> IMMEDIATE PATCHING REQUIRED within 24 hours. Isolate affected nodes if external-facing.
+
+RANK #6
+THREAT ID: CVE-2026-1042 - OpenSSL Buffer Overflow
+OVERALL RISK SCORE: 95.2 / 100 [CRITICAL]
+------------------------------------------------------------
+WHY THE AI ASSIGNED THIS PRIORITY (FEATURE ATTRIBUTION):
+ • CVSS Base Severity (8.8/10)            : +35.2 pts (37.0% impact)
+ • Asset Criticality (Level 5/5)          : +25.0 pts (26.3% impact)
+ • Active Exploit in Wild (Yes)           : +20.0 pts (21.0% impact)
+ • Network Exposure (External/Internet)   : +15.0 pts (15.8% impact)
+
+RECOMMENDED ACTION:
+ -> IMMEDIATE PATCHING REQUIRED within 24 hours. Isolate affected nodes if external-facing.
+
+RANK #7
+THREAT ID: CVE-2026-1042 - OpenSSL Buffer Overflow
+OVERALL RISK SCORE: 95.2 / 100 [CRITICAL]
+------------------------------------------------------------
+WHY THE AI ASSIGNED THIS PRIORITY (FEATURE ATTRIBUTION):
+ • CVSS Base Severity (8.8/10)            : +35.2 pts (37.0% impact)
+ • Asset Criticality (Level 5/5)          : +25.0 pts (26.3% impact)
+ • Active Exploit in Wild (Yes)           : +20.0 pts (21.0% impact)
+ • Network Exposure (External/Internet)   : +15.0 pts (15.8% impact)
+
+RECOMMENDED ACTION:
+ -> IMMEDIATE PATCHING REQUIRED within 24 hours. Isolate affected nodes if external-facing.
+
+RANK #8
+THREAT ID: CVE-2026-0915 - Web Portal Reflected XSS
+OVERALL RISK SCORE: 76.0 / 100 [HIGH]
+------------------------------------------------------------
+WHY THE AI ASSIGNED THIS PRIORITY (FEATURE ATTRIBUTION):
+ • CVSS Base Severity (6.5/10)            : +26.0 pts (34.2% impact)
+ • Asset Criticality (Level 3/5)          : +15.0 pts (19.7% impact)
+ • Active Exploit in Wild (Yes)           : +20.0 pts (26.3% impact)
+ • Network Exposure (External/Internet)   : +15.0 pts (19.7% impact)
+
+RECOMMENDED ACTION:
+ -> Schedule urgent remediation within 72 hours and enable IDS/IPS signatures.
+
+RANK #9
+THREAT ID: CVE-2026-0441 - PostgreSQL Auth Bypass
+OVERALL RISK SCORE: 60.4 / 100 [HIGH]
+------------------------------------------------------------
+WHY THE AI ASSIGNED THIS PRIORITY (FEATURE ATTRIBUTION):
+ • CVSS Base Severity (8.1/10)            : +32.4 pts (53.6% impact)
+ • Asset Criticality (Level 5/5)          : +25.0 pts (41.4% impact)
+ • Active Exploit in Wild (No)            : +0.0 pts (0.0% impact)
+ • Network Exposure (Internal)            : +3.0 pts (5.0% impact)
+
+RECOMMENDED ACTION:
+ -> Schedule urgent remediation within 72 hours and enable IDS/IPS signatures.
+
+RANK #10
+THREAT ID: CVE-2026-0812 - Internal Printer SMB Leak
+OVERALL RISK SCORE: 29.2 / 100 [LOW]
+------------------------------------------------------------
+WHY THE AI ASSIGNED THIS PRIORITY (FEATURE ATTRIBUTION):
+ • CVSS Base Severity (5.3/10)            : +21.2 pts (72.6% impact)
+ • Asset Criticality (Level 1/5)          : +5.0 pts (17.1% impact)
+ • Active Exploit in Wild (No)            : +0.0 pts (0.0% impact)
+ • Network Exposure (Internal)            : +3.0 pts (10.3% impact)
+
+RECOMMENDED ACTION:
+ -> Routine monitoring; low immediate operational risk.
+

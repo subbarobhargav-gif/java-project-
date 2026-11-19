@@ -1,0 +1,4 @@
+cveID,vendorProject,product,vulnerabilityName,dateAdded,shortDescription,requiredAction,dueDate,knownRansomwareCampaignUse,notes,cwes
+CVE-2024-0001,ExampleCorp,Gateway,"Example RCE, critical",2024-05-01,desc,patch,2024-05-22,Known,,CWE-78
+CVE-2024-0003,ExampleCorp,Portal,Example auth bypass,2025-02-10,desc,patch,2025-03-03,Unknown,,CWE-287
+CVE-2025-0006,ExampleCorp,Agent,Example deserialisation,2025-04-05,desc,patch,2025-04-26,Unknown,,CWE-502
